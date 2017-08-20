@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "875552815322",
+    "firebase_url": "https://conferencialais.firebaseio.com",
+    "project_id": "conferencialais",
+    "storage_bucket": "conferencialais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875552815322:android:28f3395e72a45bab",
+        "android_client_info": {
+          "package_name": "br.ufrn.huol.lais.conferencia1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875552815322-l17drotcf3t37k4sf022iuqof49q4r98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrqffF8ppJZS3_Eg_lJ7fdV01rroN-H0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
